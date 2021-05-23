@@ -5,10 +5,14 @@
 // @version      0.3.14
 // @description  删除主页广告、邀请、垃圾内容
 // @author       涛之雨
-// @home-url	 https://greasyfork.org/zh-CN/scripts/422847
+// @updateURL    https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/BaiDuWenKu.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/BaiDuWenKu.user.js
+// @supportURL   https://github.com/taozhiyu/tampermonkeyjs/issues
+// @homepageURL1 https://github.com/taozhiyu/tampermonkeyjs/
+// @homepageURL2 https://greasyfork.org/zh-CN/scripts/422847
 // @match        *://wenku.baidu.com/*
-// @grant	     GM_addStyle
-// @grant	     unsafeWindow
+// @grant	       GM_addStyle
+// @grant	       unsafeWindow
 // @license      GPL-3.0-only
 // @run-at       document-start
 // ==/UserScript==
