@@ -8,8 +8,7 @@
 // @updateURL    https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/BaiDuWenKu.user.js
 // @downloadURL  https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/BaiDuWenKu.user.js
 // @supportURL   https://github.com/taozhiyu/tampermonkeyjs/issues
-// @homepageURL1 https://github.com/taozhiyu/tampermonkeyjs/
-// @homepageURL2 https://greasyfork.org/zh-CN/scripts/422847
+// @homepageURL https://github.com/taozhiyu/tampermonkeyjs
 // @match        *://wenku.baidu.com/*
 // @grant	       GM_addStyle
 // @grant	       unsafeWindow
@@ -17,6 +16,7 @@
 // @run-at       document-start
 // ==/UserScript==
 /**********************************************\
+ * greasyfork: https://greasyfork.org/zh-CN/scripts/422847
  * V 0.3.14
  * 解！锁！免！VIP！复！制！
  * 规范化插件命名空间（如果重复安装请手动删除旧版本）
