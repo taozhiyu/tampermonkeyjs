@@ -1,8 +1,11 @@
-tampermonkey油猴脚本库
+tampermonkey油猴脚本库,
+
 **一些个人写的小脚本**
 
 就是一个简单的脚本整合页，不一定在这里更新。。。
+
 GreasyFork的反馈功能着实是太掉价了。。。
+
 还有恶意评分。。。
 
 我的[greasyfork.org个人首页](https://greasyfork.org/zh-CN/users/447976-%E6%B6%9B%E4%B9%8B%E9%9B%A8)
@@ -13,6 +16,7 @@ GreasyFork的反馈功能着实是太掉价了。。。
 如果还是不会安装，请点击[这里](https://taozhiyu.gitee.io/tampermonkey/)查看相关教程
 
 或是观看[视频教程](https://mp.weixin.qq.com/s/8L9YAisSeTD-bVfobkX0hg)<sup>[1]</sup>
+
 **注意事项**
 
 - 某些破坏性的大更新会使旧版脚本**完全**无法运行, 请及时检查更新.
