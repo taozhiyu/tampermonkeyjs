@@ -20,14 +20,14 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        unsafeWindow
-// @updateURL    https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkey-js@master/BaiDuWangPan.user.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkey-js@master/BaiDuWangPan.user.js
-// @supportURL   https://github.com/taozhiyu/tampermonkey-js/issues
-// @homepageURL1 https://github.com/taozhiyu/tampermonkey-js/
-// @homepageURL2 https://greasyfork.org/zh-CN/scripts/422814        
+// @updateURL    https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/BaiDuWangPan.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/BaiDuWangPan.user.js
+// @supportURL   https://github.com/taozhiyu/tampermonkeyjs/issues
+// @homepageURL  https://github.com/taozhiyu/tampermonkeyjs/   
 // @license      GPL-3.0-only
 // ==/UserScript==
 /**********************************************\
+ * greasyfork: https://greasyfork.org/zh-CN/scripts/422814     
  * 移除小尾巴部分修改自https://greasyfork.org/zh-CN/scripts/374100
  * 自定义密码部分修改自https://greasyfork.org/zh-CN/scripts/423146
  * V 0.4.5
