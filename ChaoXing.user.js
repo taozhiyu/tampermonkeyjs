@@ -26,10 +26,10 @@
 // @updateURL     https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/ChaoXing.user.js
 // @downloadURL   https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/ChaoXing.user.js
 // @supportURL    https://github.com/taozhiyu/tampermonkeyjs/issues
-// @homepageURL1  https://github.com/taozhiyu/tampermonkeyjs/
-// @homepageURL2  https://greasyfork.org/zh-CN/scripts/403935
+// @homepageURL   https://github.com/taozhiyu/tampermonkeyjs/
 // ==/UserScript==
 /**************************\
+ * greasyfork: https://greasyfork.org/zh-CN/scripts/403935
  * V1.4.8
  * 修复了对新版ppt/pdf按钮的适配问题
  * V1.4.7
