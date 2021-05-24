@@ -1,29 +1,29 @@
 // ==UserScript==
-// @name	腾讯课堂、超星自动签到(新版)
-// @description	腾讯课堂、超星自动签到
-// @namespace QianDao.taozhiyu.gitee.io
-// @author	涛之雨
-// @version	0.3.8
-// @grant	GM_getValue
-// @grant	GM_setValue
-// @grant	GM_registerMenuCommand
-// @grant	GM_addStyle
-// @run-at	document-start
-// @require	https://libs.baidu.com/jquery/2.1.4/jquery.min.js
-// @match	*://ke.qq.com/course/*
-// @match	*://ke.qq.com/webcourse*
-// @match	*://mobilelearn.chaoxing.com/widget/pcpick/stu/index*
-// @match	*://*.chaoxing.com/visit/interaction*
-// @match	*://i.mooc.chaoxing.com/*
-// @license	GPL-3.0-only
-// @icon	https://i.loli.net/2020/03/04/D3h1iWSFeyc8AKG.png
-// @updateURL    https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkey-js@master/QianDao.user.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkey-js@master/QianDao.user.js
-// @supportURL   https://github.com/taozhiyu/tampermonkey-js/issues
-// @homepageURL1 https://github.com/taozhiyu/tampermonkey-js/
-// @homepageURL2 https://greasyfork.org/zh-CN/scripts/401115
+// @name         腾讯课堂、超星自动签到(新版)
+// @description  腾讯课堂、超星自动签到
+// @namespace    QianDao.taozhiyu.gitee.io
+// @author       涛之雨
+// @version      0.3.8
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @grant        GM_registerMenuCommand
+// @grant        GM_addStyle
+// @run-at       document-start
+// @require      https://libs.baidu.com/jquery/2.1.4/jquery.min.js
+// @match        *://ke.qq.com/course/*
+// @match        *://ke.qq.com/webcourse*
+// @match        *://mobilelearn.chaoxing.com/widget/pcpick/stu/index*
+// @match        *://*.chaoxing.com/visit/interaction*
+// @match        *://i.mooc.chaoxing.com/*
+// @license      GPL-3.0-only
+// @icon         https://i.loli.net/2020/03/04/D3h1iWSFeyc8AKG.png
+// @updateURL    https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/QianDao.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/QianDao.user.js
+// @supportURL   https://github.com/taozhiyu/tampermonkeyjs/issues
+// @homepageURL https://github.com/taozhiyu/tampermonkeyjs/
 // ==/UserScript==
  
+//greasyfork: https://greasyfork.org/zh-CN/scripts/401115
 /*超星的另一个辅助，在这里：https://greasyfork.org/zh-CN/scripts/403935*/
 /*
  * 更新:
