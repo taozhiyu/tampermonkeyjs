@@ -25,19 +25,25 @@ GreasyFork的反馈功能着实是太掉价了。。。
 
 感谢这位喷子的举报
 ![举报](https://i.loli.net/2021/07/17/53Ebhyl8UAJRkdq.png)
+
 greasyfork已被删除截至删除时，相关数据截图如下
+
 ![image.png](https://i.loli.net/2021/07/17/OKntDr8P5gvkQSe.png)
 
-脚本列表如下：点击名称即可安装👇
+
+
+脚本列表如下：点击名称即可***跳转到greasyfork***👇
 
 | 脚本名称 | 说明 | 注释 |
 | :-----: | :-----: | :-----:|
-| [百度云脚本](https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/BaiDuWangPan.user.js) | 百度云去广告、删除分享链接小尾巴、<br>解锁视频本地VIP（倍速、高画质）、添加倍速快捷键、画中画等  | 盒饭警告 |
-| [百度文库脚本](https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/BaiDuWenKu.user.js) | 百度文库去广告、精简、<br>解锁本地VIP(复制、全屏)等 | 盒饭警告 |
-| [~~超星辅助脚本~~](https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/ChaoXing.user.js) | ~~视频解除鼠标限制，允许快进、拖动，<br>PDF快速翻页、跳转，作业允许粘贴<br>（请勿大量刷课，封号斗罗警告）~~ | 新版超星有播放时间记录,<br>已停止维护 |
-| [~~腾讯超星签到脚本~~](https://cdn.jsdelivr.net/gh/taozhiyu/tampermonkeyjs@master/QianDao.user.js) | ~~超星免手势签到(仅支持手势和直接签到模式),<br>腾讯课堂自动签到、答题(随机选择、判断)、<br>“智能”复读评论区内容,停止维护~~ | 疫情期间网课的产物,<br>目前已停止维护,不过尚可使用 |
+| [百度云脚本](https://greasyfork.org/zh-CN/scripts/422814) | 百度云去广告、删除分享链接小尾巴、<br>解锁视频本地VIP（倍速、高画质）、添加倍速快捷键、画中画等  | 盒饭警告 |
+| [百度文库脚本](https://greasyfork.org/zh-CN/scripts/422847) | 百度文库去广告、精简、<br>解锁本地VIP(复制、全屏)等 | 盒饭警告 |
+| [~~超星辅助脚本~~](https://greasyfork.org/zh-CN/scripts/403935) | ~~视频解除鼠标限制，允许快进、拖动，<br>PDF快速翻页、跳转，作业允许粘贴<br>（请勿大量刷课，封号斗罗警告）~~ | 新版超星有播放时间记录,<br>已停止维护 |
+| [~~腾讯超星签到脚本~~](https://greasyfork.org/zh-CN/scripts/401115) | ~~超星免手势签到(仅支持手势和直接签到模式),<br>腾讯课堂自动签到、答题(随机选择、判断)、<br>“智能”复读评论区内容,停止维护~~ | 疫情期间网课的产物,<br>目前已停止维护,不过尚可使用 |
 
-> 脚本可能以后不再在 GreasyFork 发布, 但会通过“同步”功能同步到GreasyFork, 后续更新均以 GitHub 上的信息为准.
+> ~~脚本可能以后不再在 GreasyFork 发布, 但会通过“同步”功能同步到GreasyFork, 后续更新均以 GitHub 上的信息为准.~~
+> 
+> 暂时还是greasyfork更新吧，懒得转移了
 
 # 兼容性
 
